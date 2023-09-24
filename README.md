@@ -9,11 +9,11 @@ Este projeto analisa a depressão e seus fatores associados no contexto dos EUA.
 📄 [Veja a minha apresentação aqui](https://github.com/danielesantiago/DepressionAnalysis/blob/master/Depression%20Analysis.pdf)
 
 ## 📋 Índice
-1. [Introdução](#introdução)
-2. [Origem dos Dados](#origem-dos-dados)
-3. [Objetivo da Análise](#objetivo-da-análise)
-4. [Metodologia](#metodologia)
-5. [Conclusões e Recomendações](#conclusões-e-recomendações)
+1. [Introdução](#-introdução)
+2. [Origem dos Dados](#-origem-dos-dados)
+3. [Objetivo da Análise](#-objetivo-da-análise)
+4. [Metodologia](#-metodologia)
+5. [Conclusões e Recomendações](#-conclusões-e-recomendações)
 
 ## 📘 Introdução
 A depressão é um dos transtornos mentais mais prevalentes, tendo consequências significativas na saúde e bem-estar das pessoas. Em países como os EUA, entender a etiologia e os fatores associados é vital para a criação de políticas públicas e estratégias eficazes de intervenção.
