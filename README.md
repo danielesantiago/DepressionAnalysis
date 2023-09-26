@@ -7,6 +7,7 @@
 Este projeto analisa a depressão e seus fatores associados no contexto dos EUA. A pesquisa foi embasada em dados extraídos do NHANES (National Health and Nutrition Examination Survey) e buscou explorar relações entre sintomas depressivos e variáveis como estilo de vida, alimentação e atividade física.
 
 📄 [Veja a minha apresentação aqui](https://github.com/danielesantiago/DepressionAnalysis/blob/master/Depression%20Analysis.pdf)
+📊 [Veja o projeto completo aqui](https://github.com/danielesantiago/DepressionAnalysis/blob/master/Depression%20Analysis.ipynb)
 
 ## 📋 Índice
 1. [Introdução](#-introdução)
@@ -39,10 +40,9 @@ Os principais objetivos desta pesquisa são:
 ## 🔍 Metodologia
 
 Nossa abordagem envolveu:
-
-- **Análise Estatística:** Incluindo diversos testes de hipóteses.
   
 - **EDA (Exploratory Data Analysis):** Com análises univariadas e bivariadas para identificar padrões e correlações nos dados.
+- **Estatística Inferencial:** Foram realizados diversos testes de hipóteses para entender a associação das features com a variável alvo.
 
 ## 📊 Conclusões e Recomendações
 
